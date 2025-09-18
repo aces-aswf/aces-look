@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: Apache-2.0
+// Copyright Contributors to the ACES Project.
+
 // <ACEStransformID>urn:ampas:aces:transformId:v2.0:InvLook.Academy.ReferenceGamutCompress.a2.v1</ACEStransformID>
 // <ACESuserName>Inverse Reference Gamut Compress</ACESuserName>
 
